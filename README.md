@@ -9,7 +9,7 @@
 <a href="mailto:ugurarabaci0209@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ugurarabaci0209@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/ugurarabaci/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ugurarabaci-blue?style=flat&logo=linkedin"></a>
 <a href="https://ugurarabaci0209.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-UgurArabaci-black?style=flat-square&logo=medium"></a>
-<a href="https://ugurarabaci.github.io/"><img alt="CV" src="https://img.shields.io/badge/Medium-UgurArabaci-black?style=flat-square&logo=medium"></a>
+<a href="https://ugurarabaci.github.io/"><img alt="CV" src="https://img.shields.io/badge/CV-CV-black?style=flat-square&logo=CV"></a>
 
 </p>
 
